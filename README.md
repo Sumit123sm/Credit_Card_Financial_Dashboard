@@ -63,10 +63,10 @@ These insights help businesses improve **financial planning and customer targeti
 ## Dashboard Preview
 
 ### Financial Transaction Dashboard
-![Financial Dashboard](images/dashboard_transaction.png)
+![Financial Dashboard](dashboard_transaction.png)
 
 ### Customer Insights Dashboard
-![Customer Dashboard](images/dashboard_customer.png)
+![Customer Dashboard](dashboard_customer.png)
 
 ---
 
