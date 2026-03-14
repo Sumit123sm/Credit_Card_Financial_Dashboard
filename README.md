@@ -63,14 +63,10 @@ These insights help businesses improve **financial planning and customer targeti
 ## Dashboard Preview
 
 ### Financial Transaction Dashboard
-https://github.com/Sumit123sm/Credit_Card_Financial_Dashboard/blob/main/Credit_Card_Report_Transaction.pdf
-
----
+![Financial Dashboard](images/dashboard_transaction.png)
 
 ### Customer Insights Dashboard
-
-https://github.com/Sumit123sm/Credit_Card_Financial_Dashboard/blob/main/Credit_Card_Report_Customer.pdf
-
+![Customer Dashboard](images/dashboard_customer.png)
 
 ---
 
